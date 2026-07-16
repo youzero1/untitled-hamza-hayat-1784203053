@@ -1,5 +1,5 @@
 ---
-status: pending
+status: implemented
 title: Tic Tac Toe Game
 ---
 
